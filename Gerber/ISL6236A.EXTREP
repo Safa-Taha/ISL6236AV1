@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: ISL6236A.GBR   2/11/2026  3:50:29 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                L1                                      
+.GP1                L2                                      
+.G1                 L3                                      
+.G2                 L4                                      
+.GP2                L5                                      
+.GBL                L6                                      
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GM2                Board Outline                           
+.GKO                Keep-Out Layer                          
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+.2                  Dielectric2                             
+.5                  Dielectric5                             
+.GML                Multi-Layer                             
+.1                  Dielectric1                             
+.4                  Dielectric4                             
+.3                  Dielectric3                             
+------------------------------------------------------------------------------------------

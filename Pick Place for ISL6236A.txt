@@ -1,0 +1,54 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\PCB_Project\Project Outputs for ISL6236A\Pick Place for ISL6236A.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       11/02/26
+Time:       16:03
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment            Layer       Footprint               Center-X(mm) Center-Y(mm) Rotation Description                        
+U1         ISL6236AIRZ        BottomLayer L32.5x5B                25.0000      25.0000      180      "IC MAIN PWR CTRLR QUAD 32-QFN"    
+R18        DNF                BottomLayer R0805                   26.4000      39.7000      180      ""                                 
+R17        DNF                BottomLayer R0805                   32.0000      18.6000      270      ""                                 
+R16        DNF                BottomLayer R0805                   26.4000      35.1000      360      ""                                 
+R15        0R                 BottomLayer R0805                   26.4000      37.4000      360      "RES 0.0 OHM 1/8W JUMP 0805 SMD"   
+R14        DNF                BottomLayer R0805                   26.4000      32.8000      360      ""                                 
+R13        0R                 BottomLayer R0805                   27.4000      18.6000      270      "RES 0.0 OHM 1/8W JUMP 0805 SMD"   
+R12        DNF                BottomLayer R0805                   29.7000      18.6000      90       ""                                 
+R11        10k                BottomLayer R0805                   22.7000      18.6000      270      "RES 10K OHM 1/8W 5% 0805 SMD"     
+R10        200k               BottomLayer R0805                   14.7000      32.4000      180      "RES 200K OHM 1/8W 1% 0805 SMD"    
+R9         200k               BottomLayer R0805                   14.7000      34.8000      180      "RES 200K OHM 1/8W 1% 0805 SMD"    
+R8         10k                BottomLayer R0805                   30.3000      35.2000      180      "RES 10K OHM 1/8W 5% 0805 SMD"     
+R7         200k               BottomLayer R0805                   25.0000      18.6000      90       "RES 200K OHM 1/8W 1% 0805 SMD"    
+R6         200k               BottomLayer R0805                   25.8000      29.9000      90       "RES 200K OHM 1/8W 1% 0805 SMD"    
+R5         1R                 BottomLayer R0805                   19.0000      27.4000      180      "RES 1 OHM 1/8W 1% 0805 SMD"       
+R4         1R                 BottomLayer R0805                   19.1000      22.4000      360      "RES 1 OHM 1/8W 1% 0805 SMD"       
+R3         10R                BottomLayer R0805                   14.7000      29.6000      180      "RES 10 OHM 1/8W 5% 0805 SMD"      
+R2         0R                 BottomLayer R0805                   14.7000      27.3000      360      "RES 0.0 OHM 1/8W JUMP 0805 SMD"   
+R1         0R                 BottomLayer R0805                   14.7000      25.0000      180      "RES 0.0 OHM 1/8W JUMP 0805 SMD"   
+Q2         SI4816BDY-T1-GE3   TopLayer    SO-8                    16.0000      39.0000      0        "MOSFET DL N-CH 30V 6.8A 8-SOIC"   
+Q1         SI4816BDY-T1-GE3   TopLayer    SO-8                    16.0000      15.0000      0        "MOSFET DL N-CH 30V 6.8A 8-SOIC"   
+L2         "2u2, DR125-2R2-R" TopLayer    DR125                   27.0000      37.0000      0        "INDUCTOR SHIELD PWR 2.2UH SMD"    
+L1         "3u3, DR125-3R3-R" TopLayer    DR125                   27.0000      13.0000      180      "INDUCTOR SHIELD PWR 3.3UH SMD"    
+J6         4MMx1.5MM          TopLayer    PAD_WITH_HOLE_4MMx1.5MM 45.0000      30.0000      0        "Pad with a hole 4mm x 1.5mm"      
+J5         4MMx1.5MM          TopLayer    PAD_WITH_HOLE_4MMx1.5MM 45.0000      20.0000      0        "Pad with a hole 4mm x 1.5mm"      
+J4         4MMx1.5MM          TopLayer    PAD_WITH_HOLE_4MMx1.5MM 45.0000      36.0000      0        "Pad with a hole 4mm x 1.5mm"      
+J3         4MMx1.5MM          TopLayer    PAD_WITH_HOLE_4MMx1.5MM 45.0000      14.0000      0        "Pad with a hole 4mm x 1.5mm"      
+J2         4MMx1.5MM          TopLayer    PAD_WITH_HOLE_4MMx1.5MM 5.0000       20.0000      0        "Pad with a hole 4mm x 1.5mm"      
+J1         4MMx1.5MM          TopLayer    PAD_WITH_HOLE_4MMx1.5MM 5.0000       30.0000      0        "Pad with a hole 4mm x 1.5mm"      
+C12        100nF              BottomLayer C0805                   30.5000      32.8000      360      "CAP CER 0.1UF 50V 10% X7R 0805"   
+C11        10nF               BottomLayer C0805                   30.6000      26.5000      360      "CAP CER 10000PF 50V 10% X7R 0805" 
+C10        "330uF, 10V"       TopLayer    7343-43                 38.0000      33.0000      270      "CAP TANT 330UF 10V 20% 2917"      
+C9         "330uF, 10V"       TopLayer    7343-43                 38.0000      17.0000      90       "CAP TANT 330UF 10V 20% 2917"      
+C8         220nF              BottomLayer C0805                   18.8000      29.7000      360      "CAP CER 0.22UF 50V 10% X7R 0805"  
+C7         100nF              BottomLayer C0805                   18.9000      20.1000      180      "CAP CER 0.1UF 50V 10% X7R 0805"   
+C6         "10uF, 50V"        TopLayer    C1210                   17.2000      44.0000      180      "CAP CER 10UF 50V 20% X5R 1210"    
+C5         "10uF, 50V"        TopLayer    C1210                   17.2000      20.0000      0        "CAP CER 10UF 50V 20% X5R 1210"    
+C4         "1uF, 50V"         BottomLayer C0805                   30.5000      29.9000      180      "CAP CER 1UF 50V 10% X7R 0805"     
+C3         "1uF, 50V"         BottomLayer C0805                   18.9000      24.7000      360      "CAP CER 1UF 50V 10% X7R 0805"     
+C2         "1uF, 50V"         BottomLayer C0805                   30.6000      24.2000      180      "CAP CER 1UF 50V 10% X7R 0805"     
+C1         "4.7uF, 10V"       BottomLayer C1206                   31.1000      21.7000      180      "CAP CER 4.7UF 10V 10% X5R 1206"   
